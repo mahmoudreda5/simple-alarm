@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Clock</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="set"> Set Alarm </string>
+    <string name="turnoff"> Turn Off </string>
+
+    <string-array name="ringtone_array">
+        <item>Random Ringtone</item>
+        <item>Hunter X Hunter</item>
+        <item>snwat el daya3 1</item>
+        <item>snwat el daya3 2</item>
+    </string-array>
+
+</resources>
